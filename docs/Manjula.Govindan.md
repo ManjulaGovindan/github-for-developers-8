@@ -1,4 +1,4 @@
 ## Add New Bio
 
 ** name ** 
-** Favorite Color: ** Green
+** Favorite Color: ** Yellow
